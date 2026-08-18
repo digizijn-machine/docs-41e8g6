@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-om68sf.cingbet138.site/sitemap.xml
